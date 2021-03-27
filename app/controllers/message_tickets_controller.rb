@@ -1,0 +1,2 @@
+class MessageTicketsController < ApplicationController
+end
